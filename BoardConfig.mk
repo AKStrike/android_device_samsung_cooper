@@ -23,7 +23,6 @@ LOCAL_PATH:= $(call my-dir)
 # variant, so that it gets overwritten by the parent (which goes
 # against the traditional rules of inheritance).
 USE_CAMERA_STUB:= false
-BOARD_USE_FROYO_LIBCAMERA := true
 
 COPYBIT_MSM7K := true
 
